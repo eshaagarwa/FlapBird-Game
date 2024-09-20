@@ -2,7 +2,7 @@
 
 🎉Welcome to my Flappy Bird game! 🎉 This project recreates the classic game using 🌐 HTML, 🎨 CSS, and 💻 JavaScript with HTML5 Canvas. 🚀
 
-Project Demo: https://nidhiupman568.github.io/FLAPPY-BIRD-GAME/
+Project Demo: https://github.com/eshaagarwa/FlapBird-Game
 
 ## Features 🌟
 
@@ -22,7 +22,7 @@ Project Demo: https://nidhiupman568.github.io/FLAPPY-BIRD-GAME/
 
 ## Getting Started 🚀
 
-1. Clone the repository: 'https://github.com/nidhiupman568/FLAPPY-BIRD-GAME.git' 🌀
+1. Clone the repository: 'https://github.com/eshaagarwa/FlapBird-Game' 🌀
 2. Open the `index.html` file in your browser. 🌐
 
 ## Technologies Used 💻
@@ -33,4 +33,4 @@ Project Demo: https://nidhiupman568.github.io/FLAPPY-BIRD-GAME/
 
 #### Screenshots (Output) 📸
 
-![FLAPPY BIRD]() 🐦
+![FLAPPY BIRD](https://github.com/eshaagarwa/FlapBird-Game/blob/main/Screenshot%202024-09-21%20014506.png) 🐦
