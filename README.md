@@ -1,4 +1,4 @@
- # 🐦Flappy Bird Game 🎮
+ # 🐦FlapBird Game 🎮
 
 🎉Welcome to my Flappy Bird game! 🎉 This project recreates the classic game using 🌐 HTML, 🎨 CSS, and 💻 JavaScript with HTML5 Canvas. 🚀
 
